@@ -1,6 +1,5 @@
 <h1>Using Wireshark and NetWitness Investigator to Analyze Wireless Traffic</h1>
 
-<h2>Description</h2>
 Using Wireshark, we can identify in-depth details about packages and frames, including 
 source/destination ports, MAC address, IP addresses, as well as queries made when accessing websites 
 where authentication is needed. Using NetWitness allows us to find the same information without 
